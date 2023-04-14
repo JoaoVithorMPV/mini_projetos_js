@@ -1,6 +1,7 @@
 const calcular = document.getElementById("calcular");
 
 function imc() {
+  ertwwerewr;
   const nome = document.getElementById("nome").value;
   const altura = document.getElementById("altura").value;
   const peso = document.getElementById("peso").value;
